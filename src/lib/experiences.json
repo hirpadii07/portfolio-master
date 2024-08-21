@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Frontend Engineering Intern",
+        "company": "8 Time Coding Pvt Ltd",
+        "date": "December 2023 - April 2024",
+        "description": "Designed, developed, and maintained scalable frontend systems, collaborated with cross-functional teams, optimized database structures, wrote high-quality code, troubleshooted technical issues, and engaged in performance optimization and mentorship during a remote internship from 12/2023 to 04/2024.",
+        "skills": [
+            "•Design and Development",
+            "Cross-functional Collaboration",
+            "Database Management",
+            "Code Quality:",
+            "Technical Troubleshooting:",
+            "•Performance Optimization:",
+            "Mentorship and Learning:"
+        ]
+    },
+
+    {
+        "title": "Front Desk Clerk",
+        "company": "IHG Hotels & Resorts",
+        "date": "April 2024 - Present",
+        "description": "As a Front Desk Clerk at IHG Hotels & Resorts, I provide exceptional guest service, manage check-ins/outs, handle reservations, and address guest inquiries for a seamless experience.",
+        "skills": [
+            "Customer Service",
+            "Communication",
+            "Problem-Solving",
+            "Time Management",
+            "Multitasking"
+        ]
+    }
+    
+]
