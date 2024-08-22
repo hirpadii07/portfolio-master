@@ -6,11 +6,15 @@
         "imageUrl": "/assets/img/porfolio.png",
         "githubUrl": "",
         "demoUrl": "",
-        "skills": [
-            "TypeScript",
-            "NextJS",
-            "css",
-            "Vercel"
-        ]
+        "skills": ["TypeScript", "NextJS", "css", "Vercel"]
+    },
+    {
+        "title": "SQL_Injection",
+        "description": "A comprehensive site on SQL Injection vulnerabilities, their impact on web applications, and strategies for prevention, including practical implementation in a secure web application.",
+        "type": "College Project",
+        "imageUrl": "/assets/img/sql.png",
+        "githubUrl": "https://github.com/hirpadii07?tab=repositories",
+        "demoUrl": "",
+        "skills": ["html", "python", "css", "MySql"]
     }
 ]
