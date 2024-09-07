@@ -16,5 +16,14 @@
         "githubUrl": "https://github.com/hirpadii07?tab=repositories",
         "demoUrl": "",
         "skills": ["html", "python", "css", "MySql"]
+    },
+    {
+        "title": "Social Media Application",
+        "description": "This project builds a fullstack MERN social media app with secure user authentication, post management, and responsive design. The frontend uses React with Redux for state management and includes features like dark mode, profile management, and post interactions.",
+        "type": "PersonalProject",
+        "imageUrl": "/assets/img/1.png",
+        "githubUrl": "https://github.com/hirpadii07?tab=repositories",
+        "demoUrl": "",
+        "skills": ["html", "NodeJS", "css", "MongoDB", "React", "JSON"]
     }
 ]
