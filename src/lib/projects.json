@@ -20,10 +20,19 @@
     {
         "title": "Social Media Application",
         "description": "This project builds a fullstack MERN social media app with secure user authentication, post management, and responsive design. The frontend uses React with Redux for state management and includes features like dark mode, profile management, and post interactions.",
-        "type": "PersonalProject",
+        "type": "Personal Project",
         "imageUrl": "/assets/img/1.png",
         "githubUrl": "https://github.com/hirpadii07?tab=repositories",
         "demoUrl": "",
         "skills": ["html", "NodeJS", "css", "MongoDB", "React", "JSON"]
+    },
+    {
+        "title": "Food Manager Application",
+        "description": "This project involves developing a Food Waste Reduction Platform with distinct functionalities for retailers, charitable organizations, and consumers. It includes front-end interfaces, back-end logic, database management, and system integration to handle inventory management, food claims, and discount features.",
+        "type": "College Project",
+        "imageUrl": "/assets/img/2.png",
+        "githubUrl": "https://github.com/hirpadii07?tab=repositories",
+        "demoUrl": "",
+        "skills": ["html", "Java", "css", "MySql"]
     }
 ]
