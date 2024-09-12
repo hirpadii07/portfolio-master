@@ -23,7 +23,7 @@
         "type": "Personal Project",
         "imageUrl": "/assets/img/1.png",
         "githubUrl": "https://github.com/hirpadii07?tab=repositories",
-        "demoUrl": "",
+        "demoUrl": "https://mern-social-media-aditya-pi.vercel.app/",
         "skills": ["html", "NodeJS", "css", "MongoDB", "React", "JSON"]
     },
     {
