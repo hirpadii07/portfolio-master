@@ -34,5 +34,14 @@
         "githubUrl": "https://github.com/hirpadii07?tab=repositories",
         "demoUrl": "",
         "skills": ["html", "Java", "css", "MySql"]
+    },
+    {
+        "title": "Fitness Application",
+        "description": "A fully responsive fitness web application designed using TypeScript, Vite, and CSS. It highlights gym services, fitness classes, and membership options, with modern UI elements and smooth user interactions for an enhanced user experience across all devices.",
+        "type": "Personal Project",
+        "imageUrl": "/assets/img/3.png",
+        "githubUrl": "https://github.com/hirpadii07?tab=repositories",
+        "demoUrl": "https://gym-typescript-master-bte.pages.dev/",
+        "skills": ["TypeScript", "css", "Vite"]
     }
 ]
