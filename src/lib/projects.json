@@ -42,6 +42,6 @@
         "imageUrl": "/assets/img/3.png",
         "githubUrl": "https://github.com/hirpadii07?tab=repositories",
         "demoUrl": "https://gym-typescript-master-bte.pages.dev/",
-        "skills": ["TypeScript", "css", "Vite"]
+        "skills": ["TypeScript", "css", "Vite", "Tailwind", "React"]
     }
 ]
