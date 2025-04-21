@@ -1,17 +1,15 @@
 [
     {
-        "title": "Frontend Engineering Intern",
-        "company": "8 Time Coding Pvt Ltd",
-        "date": "December 2023 - April 2024",
-        "description": "Designed, developed, and maintained scalable frontend systems, collaborated with cross-functional teams, optimized database structures, wrote high-quality code, troubleshooted technical issues, and engaged in performance optimization and mentorship during a remote internship from 12/2023 to 04/2024.",
+        "title": "Backend Developer Intern",
+        "company": "Algonquin College",
+        "date": "September 2023 - December 2024",
+        "description": "During my internship, I worked in an Agile team where I gathered requirements from stakeholders, contributed to technical specifications, and developed backend logic for APIs and database workflows. I ensured secure data integration between systems, performed unit testing, resolved defects, and implemented validation logic to maintain data integrity and accuracy.",
         "skills": [
-            "•Design and Development",
-            "Cross-functional Collaboration",
+            "Agile Methodologies",
+            "API Development",
             "Database Management",
-            "Code Quality:",
-            "Technical Troubleshooting:",
-            "•Performance Optimization:",
-            "Mentorship and Learning:"
+            "Unit Testing",
+            "Data Integration"
         ]
     },
 
@@ -28,5 +26,4 @@
             "Multitasking"
         ]
     }
-    
 ]
